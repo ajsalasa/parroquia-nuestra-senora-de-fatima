@@ -68,7 +68,7 @@ function Header() {
     <header class="header">
       <a href="#" class="header-brand">
         <i class="ph-fill ph-church"></i>
-        <h1>Parroquia Sagrada Familia</h1>
+        <h1>Parroquia Nuestra Señora de Fátima</h1>
       </a>
       <div class="header-nav">
         ${navHtml}
