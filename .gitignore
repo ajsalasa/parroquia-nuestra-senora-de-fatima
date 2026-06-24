@@ -70,7 +70,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+_build/
 
 # PyBuilder
 .pybuilder/
@@ -225,4 +225,10 @@ __pycache__/
 
 
 .exe/
-docs/
+docs/Cronograma_cierre_28_julio.md
+docs/Anteproyecto TCU.md
+docs/CARTA ABRAHAM.md
+docs/FORMULA TCU ABRAHAM.md
+docs/Notificacion_cambio_alcance.md
+docs/Plan_bitacora_TCU.md
+docs/Reglamento_TCU.md
